@@ -7,5 +7,3 @@ defmodule Math do
     []
   end
 end
-
-Math.double_each([1, 2, 3])
